@@ -4,7 +4,7 @@
 Heyyy, I'm Samruddhi 👋🏻✨
 
 🎓 B.Tech CSBS Student | 1st Year
-💻 Learning by building, experimenting & breaking things (then fixing them 😭)
+💻 Learning by building, experimenting & breaking things !!
 
 I'm a first-year CSBS student exploring the world of programming, web development and AI. I like creating small, practical projects that help me learn something new while building my GitHub portfolio.
 
