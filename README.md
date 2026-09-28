@@ -1,7 +1,7 @@
 # My-GitHub-Account 
 
 
-Heyyy, I'm Samruddhi 👋🏻✨
+Heyyy, I'm Samruddhi More 👋🏻✨
 
 🎓 B.Tech CSBS Student | 1st Year
 💻 Learning by building, experimenting & breaking things !!
